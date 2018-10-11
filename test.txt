@@ -1,3 +1,7 @@
 yoyoyoyoyo its QMIND lets go!!!
 
+<<<<<<< HEAD
 Ehhehehe master branch 
+=======
+I am very excited about this.
+>>>>>>> newbranch
